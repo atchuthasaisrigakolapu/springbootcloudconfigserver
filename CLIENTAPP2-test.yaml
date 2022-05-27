@@ -1,2 +1,6 @@
 welcome:
- message: welcome to test env property value from config server for client config2 server in develop branch
+ message: welcome to test env property value from config server for client config2 server in develop branc
+property:
+ random: property random value from test property file in clientApp2
+ 
+ 
